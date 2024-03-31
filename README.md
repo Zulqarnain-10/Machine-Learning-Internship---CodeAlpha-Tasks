@@ -1,5 +1,4 @@
-# Machine-Learning-Internship---CodeAlpha-Tasks
-This repo contains three ML projects: Credit Scoring Model, Handwritten Character Recognition, and Disease Prediction. Each demonstrates data handling, model training, and evaluation skills using classification algorithms. 
+# Machine-Learning-Internship CodeAlpha-Tasks
 
 This repository documents the work I accomplished during my machine learning internship, focusing on predictive modeling and pattern recognition. Below is an overview of each project:
 
